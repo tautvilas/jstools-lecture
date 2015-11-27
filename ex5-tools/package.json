@@ -10,6 +10,7 @@
   "author": "Tautvilas <mecinskas@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "jshint": "^2.8.0"
+    "jshint": "^2.8.0",
+    "uglify-js": "^2.6.1"
   }
 }
